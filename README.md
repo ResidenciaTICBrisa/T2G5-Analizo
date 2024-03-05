@@ -2,7 +2,7 @@
 
 ## O que é o Analizo?
 
-O Analizo é uma ferramenta open source para análise de código estático, que procura ser indenpendente de linguagem e possuir facilidade para a adição de novas linguagens. 
+O Analizo é uma ferramenta open source para análise de código estático, que procura ser indenpendente de linguagem e possuir facilidade para a adição de novas linguagens. Atualmente a ferramenta possui suporte para métricas de código fonte, possui a capacidade de gerar gráficos de dependência além de fornecer análise de evolução de código fonte. Suportando atualmente 4 linguagens, sendo elas C, C++, Java e C#, a ferramenta tem o intuito de poder ser de fácil adição de novas, através de contribuições ao dódigo fonte.
 
 - O projeto possui um site localizado em: http://analizo.org
 
@@ -10,7 +10,7 @@ O Analizo é uma ferramenta open source para análise de código estático, que 
 
 - Mantenedor: Joenio Marques da Costa.
 
-- Como contribuir/rodar o peojeto: https://github.com/analizo/analizo/blob/main/HACKING.md
+- Como contribuir/rodar o projeto: https://github.com/analizo/analizo/blob/main/HACKING.md
 
   <div align="center"> 
 <h2>Equipe</h2>
