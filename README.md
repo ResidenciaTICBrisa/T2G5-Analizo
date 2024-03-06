@@ -2,7 +2,7 @@
 
 ## O que é o Analizo?
 
-O Analizo é uma ferramenta open source para análise de código estático, que procura ser independente de linguagem e possuir facilidade para a inclusão de novas linguagens, sendo que essa tarefa é executada pelo Doxyparse. A ferramenta possui suporte para métricas e análise de evolução de código fonte, além de possuir a capacidade de gerar gráficos de dependência. Atualmente, o Analizo suporta análise de código em C, C++, Java e C#.
+O Analizo é uma ferramenta open source para análise de código estático, que procura ser independente de linguagem e possuir facilidade para a inclusão de novas linguagens. A ferramenta possui suporte para métricas e análise de evolução de código fonte, além de possuir a capacidade de gerar gráficos de dependência. Atualmente, o Analizo suporta análise de código em C, C++, Java e C#.
 
 ## Evolução da ferramenta
 
