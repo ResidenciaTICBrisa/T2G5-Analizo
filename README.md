@@ -20,12 +20,12 @@ O nosso foco é dedicado ao desenvolvimento de novas funcionalidades e à corre�
 
 Apresentação da equipe na Tabela 1:
 
-| Nome | GitHub | E-mail | 
-|-----|-----|-----|
-| Arthur Taylor de Jesus Popov | [Eruel6](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
-| Bruno Ribeiro | [BrunoRiibeiro](https://github.com/BrunoRiibeiro) | bruno.ribeiro@aluno.unb.br |
-| Gabriel Morais | [gabriel-moraiss](https://github.com/gabriel-moraiss) | gabriel.santana@aluno.unb.br 
-| Júlia Yoshida | [juliaryoshida](https://github.com/juliaryoshida) | julia.yoshida@aluno.unb.br |
-| Marcos Vinícius | [MarcosViniciusG](https://github.com/MarcosViniciusG)| amrco.grundel@aluno.unb.br |
+| Nome | E-mail | 
+| ---- | ------ |
+| [Arthur Taylor de Jesus Popov](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | bruno.ribeiro@aluno.unb.br |
+| [Gabriel Morais](https://github.com/gabriel-moraiss) | gabriel.santana@aluno.unb.br 
+| [Júlia Yoshida](https://github.com/juliaryoshida) | julia.yoshida@aluno.unb.br |
+| [Marcos Vinícius |usG](https://github.com/MarcosViniciusG)| amrco.grundel@aluno.unb.br |
 
 *Tabela 1 - Equipe*
