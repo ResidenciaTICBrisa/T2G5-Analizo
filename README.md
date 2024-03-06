@@ -20,8 +20,8 @@ O nosso foco é dedicado ao desenvolvimento de novas funcionalidades e à corre�
 
 Apresentação da equipe na Tabela 1:
 
-|Foto | Nome| GitHub| E-mail| 
-|-----|-----|-----|-----|
+| Nome | GitHub | E-mail | 
+|-----|-----|-----|
 | Arthur Taylor de Jesus Popov | [Eruel6](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
 | Bruno Ribeiro | [BrunoRiibeiro](https://github.com/BrunoRiibeiro) | bruno.ribeiro@aluno.unb.br |
 | Gabriel Morais | [gabriel-moraiss](https://github.com/gabriel-moraiss) | gabriel.santana@aluno.unb.br 
