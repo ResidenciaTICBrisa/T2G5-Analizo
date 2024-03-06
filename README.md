@@ -12,9 +12,9 @@ O nosso foco é dedicado ao desenvolvimento de novas funcionalidades e à corre�
 
 - Organização com fork para contribuição: https://github.com/ozilana/analizo
 
-- Mantenedor: Joenio Marques da Costa.
-
 - Como contribuir/rodar o projeto: https://github.com/analizo/analizo/blob/main/HACKING.md
+
+- Mantenedor: Joenio Marques da Costa.
 
 ## Equipe
 
