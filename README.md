@@ -26,6 +26,6 @@ Apresentação da equipe na Tabela 1:
 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | bruno.ribeiro@aluno.unb.br |
 | [Gabriel Morais](https://github.com/gabriel-moraiss) | gabriel.santana@aluno.unb.br 
 | [Júlia Yoshida](https://github.com/juliaryoshida) | julia.yoshida@aluno.unb.br |
-| [Marcos Vinícius |usG](https://github.com/MarcosViniciusG)| amrco.grundel@aluno.unb.br |
+| [Marcos Vinícius](https://github.com/MarcosViniciusG)| amrco.grundel@aluno.unb.br |
 
 *Tabela 1 - Equipe*
