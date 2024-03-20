@@ -1,0 +1,58 @@
+site_name: Analizo
+nav: 
+ - Home: 'index.md'
+ - Sprints: 
+    - Sprint 1: 
+        - Sobre a Sprint: 'sprint1.md'
+        - Atas de reunião: 
+            - Reunião 01/03/24: 'reuniao1.md'
+            - Reunião : 'reuniao2.md'
+    - Sprint 2: 
+        - Atas de reunião: 
+            - Reunião 1: 'reuniao1.md'
+ - Planejamento: 
+    - Roadmap: 'roadmap.md'
+ - Releases: 
+    - Release 1: 'release1.md'
+    - Release 2: 'release2.md'
+
+theme:
+  name: material
+  language: pt
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
